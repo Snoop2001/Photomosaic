@@ -3,7 +3,7 @@
 It then fills each tile with source images, selected based on the closest 
 matching rgb value to the original color of the tile.</p>
 
-![Image of Generator](https://raw.githubusercontent.com/mgoodman94/Photomosaic/Master/readme_image.png)
+![Image of Generator](/readme_image.png)
 
 ## Getting Started
 ### Prerequisites
